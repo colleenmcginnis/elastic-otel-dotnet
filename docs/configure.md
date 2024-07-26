@@ -7,8 +7,7 @@ Assumptions we're comfortable making about the reader:
 * They are familiar with OpenTelemetry
 ////
 
-[[configure]]
-== Configure
+# Configuration options
 
 :language: .NET
 :language_lc: dotnet
